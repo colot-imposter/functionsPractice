@@ -26,7 +26,7 @@ console.log(what);
 // x+y=z
 // x+y=z
 
-
+//ha ha colot-imposter! who is the imposter now?
 let x = 0
 let y = 1
 let z = ""
